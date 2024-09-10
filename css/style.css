@@ -48,7 +48,9 @@ textarea {
     resize: none;
     border-radius: 5px;
 }
-
+#textoFinal{
+    color: #fff ;
+}
 button {
     cursor: pointer;
     background-color: #fff;
